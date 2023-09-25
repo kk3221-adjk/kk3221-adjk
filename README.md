@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB DEVELOPMENT 
 - 🌱 I’m currently learning WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me adrija28104@gmail.com
 
 <!---
 kk3221-adjk/kk3221-adjk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
