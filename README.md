@@ -30,3 +30,11 @@
 ## 🚀 Currently Working On
 
 Solving LeetCode problems daily and improving problem solving skills.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0175-combine-two-tables) |
+<!---LeetCode Topics End-->
