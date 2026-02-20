@@ -37,4 +37,5 @@ Solving LeetCode problems daily and improving problem solving skills.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0175-combine-two-tables) |
+| [0197-rising-temperature](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
