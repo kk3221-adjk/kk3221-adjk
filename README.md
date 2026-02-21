@@ -38,4 +38,12 @@ Solving LeetCode problems daily and improving problem solving skills.
 | ------- |
 | [0175-combine-two-tables](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0197-rising-temperature) |
+## Math
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
