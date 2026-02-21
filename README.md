@@ -46,4 +46,16 @@ Solving LeetCode problems daily and improving problem solving skills.
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Array
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0054-spiral-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
