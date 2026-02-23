@@ -46,6 +46,7 @@ Solving LeetCode problems daily and improving problem solving skills.
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0868-binary-gap) |
 ## Array
 |  |
 | ------- |
