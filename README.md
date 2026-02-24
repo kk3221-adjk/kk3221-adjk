@@ -51,6 +51,7 @@ Solving LeetCode problems daily and improving problem solving skills.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0054-spiral-matrix) |
+| [0283-move-zeroes](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0283-move-zeroes) |
 ## Matrix
 |  |
 | ------- |
@@ -71,4 +72,8 @@ Solving LeetCode problems daily and improving problem solving skills.
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
