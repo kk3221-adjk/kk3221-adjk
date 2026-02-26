@@ -82,4 +82,12 @@ Solving LeetCode problems daily and improving problem solving skills.
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
