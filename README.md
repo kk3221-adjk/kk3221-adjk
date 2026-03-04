@@ -53,10 +53,12 @@ Solving LeetCode problems daily and improving problem solving skills.
 | ------- |
 | [0054-spiral-matrix](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0054-spiral-matrix) |
 | [0283-move-zeroes](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0283-move-zeroes) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0054-spiral-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
