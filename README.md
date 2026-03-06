@@ -85,6 +85,7 @@ Solving LeetCode problems daily and improving problem solving skills.
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Linked List
 |  |
 | ------- |
