@@ -42,6 +42,7 @@ Solving LeetCode problems daily and improving problem solving skills.
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0788-rotated-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,4 +96,8 @@ Solving LeetCode problems daily and improving problem solving skills.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
