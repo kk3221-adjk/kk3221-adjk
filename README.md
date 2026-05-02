@@ -2,7 +2,7 @@
 
 💻 Aspiring Software Developer
 🌱 Currently learning Data Structures & Algorithms in Java
-🎯 Goal: Software Development Internship
+🎯 Goal: Software Development, Full Stack Development, Java Developer
 
 ---
 
