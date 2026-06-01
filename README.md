@@ -56,6 +56,7 @@ Solving LeetCode problems daily and improving problem solving skills.
 | [0054-spiral-matrix](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0054-spiral-matrix) |
 | [0283-move-zeroes](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0283-move-zeroes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Matrix
 |  |
 | ------- |
@@ -100,4 +101,12 @@ Solving LeetCode problems daily and improving problem solving skills.
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0788-rotated-digits) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Sorting
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
