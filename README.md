@@ -58,6 +58,7 @@ Solving LeetCode problems daily and improving problem solving skills.
 | [0283-move-zeroes](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0283-move-zeroes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
@@ -74,6 +75,7 @@ Solving LeetCode problems daily and improving problem solving skills.
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Solving LeetCode problems daily and improving problem solving skills.
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,4 +126,8 @@ Solving LeetCode problems daily and improving problem solving skills.
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Hash Table
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
