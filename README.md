@@ -58,6 +58,7 @@ Solving LeetCode problems daily and improving problem solving skills.
 | [0283-move-zeroes](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0283-move-zeroes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -71,6 +72,7 @@ Solving LeetCode problems daily and improving problem solving skills.
 | ------- |
 | [0054-spiral-matrix](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0054-spiral-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Tree
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Solving LeetCode problems daily and improving problem solving skills.
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/0283-move-zeroes) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kk3221-adjk/kk3221-adjk/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
